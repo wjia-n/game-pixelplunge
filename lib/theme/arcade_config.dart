@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: true,
   tip1Id: 'pixelplungeicecream',
   tip2Id: 'pixelplungetaco',
-  tip1Label: '💛 Buy me an ice cream',
-  tip2Label: '💛 Buy me a taco',
+  tip1Label: '💛 Pixel Plunge ice cream',
+  tip2Label: '💛 Pixel Plunge taco',
 );
